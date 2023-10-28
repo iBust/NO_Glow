@@ -1,4 +1,4 @@
-# No_Glow from device to router
+# Safer from device to router
 
 ## 4-step tutorial
 
