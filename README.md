@@ -51,9 +51,9 @@ https://www.crowdsupply.com/sutajio-kosagi/novena (no longer available)
 
 Intel
 
-Coreboot, formerly known as LinuxBIOS, is a software project aimed at replacing closed source proprietary firmware (BIOS or UEFI) found in most computers with a lightweight firmware designed to perform only the minimum number of tasks necessary to load and run a modern 32-bit or 64-bit operating system.
+Coreboot, formerly known as LinuxBIOS, replace the closed source proprietary firmware (BIOS or UEFI) found in most computers with a lightweight firmware designed to perform only the minimum number of tasks necessary to load and run a modern 32-bit or 64-bit OS.
 
-Since Coreboot initializes the bare hardware, it must be ported to every chipset and motherboard that it supports. As a result, coreboot is available only for a limited number of hardware platforms and motherboard models. (mostly Lenovo Thinkpads & Chromebooks)
+Since Coreboot initializes the bare hardware, it must be ported to every chipset and motherboard that it supports. As a result, coreboot is available only for a limited number of hardware platforms and motherboard models (mostly Lenovo Thinkpads & Chromebooks).
 
 DEFCON 26 HARDWARE HACKING VILLAGE - Brian Milliron - Disabling Intel ME in Firmware https://www.youtube.com/watch?v=WJo8RsJeqxU
 
