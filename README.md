@@ -1,6 +1,6 @@
-# Safer from device to router
+# no_glow means safer from device to router
 
-## 4-step tutorial
+## 4-step OPSEC tutorial
 
 ### How to be the most safe and secure online.
 
