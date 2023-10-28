@@ -1,20 +1,19 @@
 # NO_Glow
-   *No Glow setup from fingertips to ISP*
+   *No Glow setup from fingertips to router*
 
-**This tutorial will show how to be the most safe and secure online.**
+**This tutorial will show how to be the most safe and secure online.**  
 
-1. Device
-Coreboot
-ME_Cleaner
-   
-4. Operation System (OS)
+**Device**
+1. Coreboot
+2. ME_Cleaner
+
+**Operating System (OS)**
    a. Qubes-Whonix (Snowden recommandation)
    b. Tails
    c. Others (OpenBSD, HardenedBSD, etc.)
 5. Software
 
 6. Router
-
 7. DNS, ufw, Tor SOCKS5
 
 
