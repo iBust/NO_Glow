@@ -1,6 +1,6 @@
 # no_glow means safer from device to router
 
-## How to be the most safe, secure and anonymous online.
+## How to be safe, secure and ''anonymous'' online.
 
 ### Reading
 
