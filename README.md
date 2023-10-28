@@ -15,9 +15,9 @@
   
 3. Software
      - Invidious (Youtube)
-     - Matrix Chat
+     - Matrix Chat (register over Tor, etc.)
      - i2p
-  
+
 4. Router
      - OpenWrt
      - DNSCrypt (for when non Tor)
@@ -25,8 +25,8 @@
 
 ## **Device**
    
-Hardware from most secure to reasonably secure (of course it depends on TOCTOU and all the rest etc.)
-(Checkout Bunnies (OG XBOX Hacker) **Precursor** and **Novena**, the most secure communication device that is still only a Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit) and 
+Hardware from most secure to reasonably secure
+*See Bunnie's (OG XBOX Hacker) **Precursor** and **Novena**, the most secure communication device that is still only a Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit) and 
 
   https://www.crowdsupply.com/sutajio-kosagi/novena (no longer available)
   https://precursor.dev/ (in stock)
@@ -48,10 +48,9 @@ Compatible device:
        MrChromebox (https://mrchromebox.tech/)
      ME_Cleaned
        
-   
-   -
-   - , ME_Cleaner, less blob possible)
-   -
+ME_Cleaner, less blob possible
+
+(https://www.youtube.com/watch?v=WJo8RsJeqxU)
 
 ## 2. The OS
    Of course Winblows (spyware) is not a secure and anonymous OS.
