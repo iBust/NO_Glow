@@ -2,6 +2,10 @@
 
 ## How to be the most safe, secure and anonymous online.
 
+Important link
+
+https://anonymousplanet.org/
+
 *Some of these steps can be done on a regular home network and computers, but to build a secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. cheap Coreboot compatible Lenovo ThinkPad and a cheap Mango GL.iNet router)*
 
 1. Device
