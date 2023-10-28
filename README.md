@@ -19,9 +19,9 @@ https://browserleaks.com/
 
 ****** SPLIT no_glow in 3 categories ******
 
-1. Beginner
-2. Advanced
-3. Expert
+     1. Beginner
+     2. Advanced
+     3. Expert
 
 1. Device
      - Coreboot
