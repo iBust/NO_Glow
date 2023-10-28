@@ -4,7 +4,7 @@
 
 ### How to be the most safe and secure online.
 
-*Some of these steps can be done on a regular computer (and if compatible, even on some regular home router) but to build a really secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. a cheap eBay Corebooted ThinkPad (200$) and a cheap Mango GL.iNet router (20$)
+*Some of these steps can be done on a regular computer, but to build a really secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. cheap Coreboot compatible Lenovo ThinkPad and a cheap Mango GL.iNet router)*
 
 1. Device
      - Coreboot
@@ -23,31 +23,30 @@
 
 4. Router
      - OpenWrt
+     - Tomato (Fresh/Advanced)
      - DNSCrypt (for when non Tor, clearnet)
 
-## **Device**
-   
-Hardware from most secure to reasonably secure
+# **Device**
 
-*See Bunnie's (OG XBOX Hacker) **Precursor** (https://www.youtube.com/watch?v=w8BA6_9HCzk) Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit and **Novena** open source hardware laptop!*
+*For more info, see Bunnie's (OG XBOX Hacker) **Precursor** (https://www.youtube.com/watch?v=w8BA6_9HCzk) Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit and **Novena** open source hardware laptop!*
 
 https://precursor.dev/ (in stock)
 
 https://www.crowdsupply.com/sutajio-kosagi/novena (no longer available)
 
-**A Corebooted computer** (from easiest to hardest)
+## Corebooted Computer (from easiest to hardest)
 
-## Why?
+### Why?
 
 Coreboot, formerly known as LinuxBIOS, is a software project aimed at replacing closed source proprietary firmware (BIOS or UEFI) found in most computers with a lightweight firmware designed to perform only the minimum number of tasks necessary to load and run a modern 32-bit or 64-bit operating system.
 
 Since Coreboot initializes the bare hardware, it must be ported to every chipset and motherboard that it supports. As a result, coreboot is available only for a limited number of hardware platforms and motherboard models. (mostly Lenovo Thinkpads & Chromebooks)
 
-## How?
+DEFCON 26 HARDWARE HACKING VILLAGE - Brian Milliron - Disabling Intel ME in Firmware https://www.youtube.com/watch?v=WJo8RsJeqxU
 
+### How?
 
-
-   *You can also find corebooted devices on Ebay or Google for sale, System76, Purism, Nitro and FSF have some.*
+   *You can find devices with Coreboot (Skulls, Libreboot, Heads) on eBay or from System76, Purism, Nitro, FSF and more.*
 
 Skulls pre-built coreboot image for Lenovo Thinkpad (t430, t440p, t530, w530, x230, x230t)
       
@@ -65,7 +64,7 @@ MrChromebox
 
      https://mrchromebox.tech/
 
-
+**ME_CLEANER** (from easiest to hardest)
 
 
 ## 2. The OS
