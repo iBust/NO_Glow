@@ -34,7 +34,7 @@
      - Streamio
      - Emailwiz (lukesmith)
      - GrapheneOS (Pixel)
-     - Monero
+     - Monero (VPS, CoinCards, etc.)
      - Tomato (Fresh/Advanced)
      - DNSCrypt (for when non Tor, clearnet)
 
@@ -46,7 +46,7 @@ https://precursor.dev/ (in stock)
 
 https://www.crowdsupply.com/sutajio-kosagi/novena (no longer available)
 
-## Corebooted Computer (from easiest to hardest)
+## Coreboot
 
 ### Why?
 
@@ -149,7 +149,33 @@ AMD
      Phenom II are the strongest CPU before 2013 when AMDPSP came into existance. You can desactivate AMDPSP
 
 ## 2. The OS
-   Of course Winblows (spyware) is not a secure and anonymous OS.
+
+- Qubes-Whonix
+
+Edward Snowden OS recommandation
+
+https://twitter.com/Snowden/status/781493632293605376
+
+https://twitter.com/snowden/status/941020119609892864 )
+
+          https://www.qubes-os.org/
+
+### Why ?
+
+Secure Compartmentalization
+Qubes brings to your personal computer the security of the Xen hypervisor, the same software relied on by many major hosting providers to isolate websites and services from each other. Learn more
+
+
+Operating System Freedom
+Can't decide which Linux distribution you prefer? Still need that one Windows program for work? With Qubes, you're not limited to just one OS. Learn more
+
+
+Serious Privacy
+With Whonix integrated into Qubes, using the Internet anonymously over the Tor network is safe and easy. Learn more
+
+### How ?
+
+          https://www.qubes-os.org/doc/installation-guide/
    
 ## 3. Software
 
