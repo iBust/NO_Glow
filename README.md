@@ -16,6 +16,13 @@ https://browserleaks.com/
 
 *Some of these steps can be done on a regular home network and computers, but to build a secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. cheap Coreboot compatible Lenovo ThinkPad and a cheap Mango GL.iNet router)*
 
+
+****** SPLIT no_glow in 3 categories ******
+
+1. Beginner
+2. Advanced
+3. Expert
+
 1. Device
      - Coreboot
      - ME_Cleaner & AMD PSP
