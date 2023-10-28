@@ -60,9 +60,9 @@ DEFCON 26 HARDWARE HACKING VILLAGE - Brian Milliron - Disabling Intel ME in Firm
 
 AMD
 
-AMD PSP ... ''IME for AMD''
+AMD PSP ''aka IME for AMD''
 
- AMDPSP has uncontrolled memory access,lot worst then the network)
+ AMDPSP can have uncontrolled memory access and many things even worst then even full network stack access.
 
 ### How?
 
