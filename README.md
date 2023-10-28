@@ -26,31 +26,35 @@
 ## **Device**
    
 Hardware from most secure to reasonably secure
-*See Bunnie's (OG XBOX Hacker) **Precursor** and **Novena**, the most secure communication device that is still only a Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit) and 
 
-  https://www.crowdsupply.com/sutajio-kosagi/novena (no longer available)
-  https://precursor.dev/ (in stock)
+(*See Bunnie's (OG XBOX Hacker) **Precursor** (https://www.youtube.com/watch?v=w8BA6_9HCzk) (Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit) and **Novena***)
+
+https://precursor.dev/ (in stock)
+
+https://www.crowdsupply.com/sutajio-kosagi/novena (no longer available)
 
 **A Corebooted computer** (from easiest to hardest)
    
-   *You can also find corebooted devices on Ebay or Google for sale, System76, Purism, Nitro and FSF have some. Buy at your own risk!*
+   *You can also find corebooted devices on Ebay or Google for sale, System76, Purism, Nitro and FSF have some.*
 
-Skulls pre-built coreboot
+Skulls pre-built coreboot image for Lenovo Thinkpad (t430, t440p, t530, w530, x230, x230t)
       
-      https://github.com/merge/skulls
+     https://github.com/merge/skulls
       
-Compatible device:
-   
-      Lenovo Thinkpad (t430, t440p, t530, w530, x230, x230t)
+Libreboot coreboot image builder
       
-         Libreboot (https://notabug.org/libreboot/lbmk)
-       Coreboot (https://notabug.org/libreboot/lbmk
-       MrChromebox (https://mrchromebox.tech/)
-     ME_Cleaned
-       
-ME_Cleaner, less blob possible
+     https://notabug.org/libreboot/lbmk
 
-(https://www.youtube.com/watch?v=WJo8RsJeqxU)
+Coreboot
+     
+     https://notabug.org/libreboot/lbmk
+
+MrChromebox
+
+     https://mrchromebox.tech/
+
+
+
 
 ## 2. The OS
    Of course Winblows (spyware) is not a secure and anonymous OS.
