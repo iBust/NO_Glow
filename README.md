@@ -2,26 +2,28 @@
 
 ## This 4-step tutorial will show how to be the most safe and secure online
 
-1. Device
+**1. Device**
 
     a. Coreboot
 
     b. ME_Cleaner
 
-2. Operation System (OS)
+**2. Operation System (OS)**
 
-    a. Qubes-Whonix (Snowden recommandation)
+    a. Qubes-Whonix (Snowden recommandation) br>
 
     b. Tails
 
     c. Others (OpenBSD, HardenedBSD, etc.)
 
-4. Software (Youtube, Chat, etc.)
+**3. Software (Youtube, Chat, etc.)**
+
+    a.  
 
 5. Router (DNSCrypt, ufw, Tor SOCKS5) 
 
 
-**Device**
+##**Device**
    
 Hardware from most secure to reasonably secure (of course it depends on TOCTOU and all the rest etc.)
 (Checkout Bunnies (OG XBOX Hacker) **Precursor** and **Novena**, the most secure communication device that is still only a Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit) and 
@@ -51,7 +53,7 @@ Compatible device:
    - , ME_Cleaner, less blob possible)
    -
 
-2. The OS
+##2. The OS
    Of course Winblows (spyware) is not a secure and anonymous OS.
    
 4. The second step is your OS.
