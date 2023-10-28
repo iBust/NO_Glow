@@ -1,29 +1,24 @@
-# SA_Glow
+# NO_Glow
    *No Glow setup from fingertips to ISP*
 
 **This tutorial will show how to be the most safe and secure online.**
 
 1. Device
-
-   a. Coreboot
-
-   b. ME_Cleaner
+Coreboot
+ME_Cleaner
    
-2. Operation System (OS)
-   
+4. Operation System (OS)
    a. Qubes-Whonix (Snowden recommandation)
-   
    b. Tails
-   
    c. Others (OpenBSD, HardenedBSD, etc.)
-   
-3. Software
+5. Software
 
-4. Router
+6. Router
 
-5. DNS, ufw, Tor SOCKS5
+7. DNS, ufw, Tor SOCKS5
 
-1. **Device**
+
+**Device**
    
 Hardware from most secure to reasonably secure (of course it depends on TOCTOU and all the rest etc.)
 (Shoutout to Bunnies (OG XBOX Hacker) **Precursor**, the most secure communication device that is still only a Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit)
