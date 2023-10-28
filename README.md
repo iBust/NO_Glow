@@ -1,6 +1,6 @@
 # no_glow means safer from device to router
 
-## 4-step OPSEC tutorial
+## 4-step tutorial
 
 ### How to be the most safe and secure online.
 
@@ -25,7 +25,8 @@
      - OpenWrt & DD-Wrt
      - Tomato (Fresh/Advanced)
      - DNSCrypt (for when non Tor, clearnet)
-     - 2nd router, keep other as your 
+     - 2nd router, keep other as your
+     - ufw (port for IME, AMDPSP has uncontrolled memory access,lot worst then the network)
 
 5. Extras
      - Jellyfin (Open source ''Netflix/Plex'')
@@ -61,7 +62,7 @@ AMD
 
 AMD PSP ... ''IME for AMD''
 
-Phenom II are the strongest CPU before 2013 when AMDPSP came into existance.
+ AMDPSP has uncontrolled memory access,lot worst then the network)
 
 ### How?
 
@@ -139,6 +140,13 @@ Coreboot
 
 **ME_CLEANER**
 
+Intel
+
+     Most of the tools like Coreboot, Libreboot, Skulls & Heads will clean the IME, read the instruction when installing these (and some will also extract/leave the needed closed source blobs that are required for the computer initialisation)
+
+AMD
+
+     Phenom II are the strongest CPU before 2013 when AMDPSP came into existance. You can desactivate AMDPSP
 
 ## 2. The OS
    Of course Winblows (spyware) is not a secure and anonymous OS.
