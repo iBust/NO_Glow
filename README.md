@@ -1,12 +1,27 @@
-# No_Glow setup from fingertips to ISP
+# No_Glow simple setup from fingertips to ISP
 
-## This 4-step tutorial will show how to be the most safe and secure online
+## 4-step tutorial
 
-## **1. Device**
+### How to be the most safe and secure online.
 
-    a. Coreboot
+1. Device
+     - Coreboot
+     - ME_Cleaner
 
-    b. ME_Cleaner
+2. OS
+     - Qubes-Whonix
+     - Tails
+     - Others (Open or HardenedBSD, etc.)
+  
+3. Software
+     - Invidious (Youtube)
+     - Matrix Chat
+     - i2p
+  
+4. Router
+     - OpenWrt
+     - DNSCrypt (for when non Tor)
+     - SOCKS5
 
 **2. Operation System (OS)**
 
@@ -64,3 +79,7 @@ Compatible device:
 
 Inside your OS, you cannot do everything and open a browser and open all that javascript crap. 
 Invidious
+
+
+100. First list item
+     - First nested list item
