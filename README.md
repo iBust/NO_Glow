@@ -4,7 +4,7 @@
 
 ### How to be the most safe and secure online.
 
-*Some of these steps can be done on a regular computer (and if compatible, even on some regular home router.) but to build a really secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. a cheap ThinkPad coreboot compatible (skulls/libreboot/coreboot) compatible on eBay and a cheap Mango GL.iNet router to flash a pure image of OpenWrt) that is not your main.* ** Here's what you CAN do if you don't have ***
+*Some of these steps can be done on a regular computer (and if compatible, even on some regular home router) but to build a really secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. a cheap eBay Corebooted ThinkPad (200$) and a cheap Mango GL.iNet router (20$)
 
 1. Device
      - Coreboot
@@ -19,11 +19,11 @@
      - Invidious (Youtube)
      - Matrix Chat (register over Tor, etc.)
      - i2p
+     - SOCKS5
 
 4. Router
      - OpenWrt
      - DNSCrypt (for when non Tor, clearnet)
-     - SOCKS5
 
 ## **Device**
    
