@@ -1,8 +1,6 @@
 # no_glow means safer from device to router
 
-## 4-step tutorial
-
-### How to be the most safe and secure online.
+## How to be the most safe, secure and anonymous online.
 
 *Some of these steps can be done on a regular home network and computers, but to build a secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. cheap Coreboot compatible Lenovo ThinkPad and a cheap Mango GL.iNet router)*
 
