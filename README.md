@@ -1,7 +1,7 @@
 # NO_Glow
-   *No Glow setup from fingertips to ISP*
+## No Glow setup from fingertips to ISP
 
-**This 4-step tutorial will show how to be the most safe and secure online.**
+### This 4-step tutorial will show how to be the most safe and secure online
 
 1. Device
 
