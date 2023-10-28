@@ -23,21 +23,6 @@
      - DNSCrypt (for when non Tor)
      - SOCKS5
 
-**2. Operation System (OS)**
-
-    a. Qubes-Whonix (Snowden recommandation) br>
-
-    b. Tails
-
-    c. Others (OpenBSD, HardenedBSD, etc.)
-
-**3. Software (Youtube, Chat, etc.)**
-
-    a.  
-
-5. Router (DNSCrypt, ufw, Tor SOCKS5) 
-
-
 ## **Device**
    
 Hardware from most secure to reasonably secure (of course it depends on TOCTOU and all the rest etc.)
