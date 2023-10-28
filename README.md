@@ -2,7 +2,7 @@
 
 ## This 4-step tutorial will show how to be the most safe and secure online
 
-**1. Device**
+## **1. Device**
 
     a. Coreboot
 
