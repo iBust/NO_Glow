@@ -4,6 +4,8 @@
 
 ### How to be the most safe and secure online.
 
+*Some of these steps can be done on a regular computer (and if compatible, even on some regular home router.) but to build a really secure (or ''anonymous'') configuration, you need to dedicate a second computer and a second router (ex. a cheap ThinkPad coreboot compatible (skulls/libreboot/coreboot) compatible on eBay and a cheap Mango GL.iNet router to flash a pure image of OpenWrt) that is not your main.* ** Here's what you CAN do if you don't have ***
+
 1. Device
      - Coreboot
      - ME_Cleaner
@@ -20,21 +22,31 @@
 
 4. Router
      - OpenWrt
-     - DNSCrypt (for when non Tor)
+     - DNSCrypt (for when non Tor, clearnet)
      - SOCKS5
 
 ## **Device**
    
 Hardware from most secure to reasonably secure
 
-(*See Bunnie's (OG XBOX Hacker) **Precursor** (https://www.youtube.com/watch?v=w8BA6_9HCzk) (Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit) and **Novena***)
+*See Bunnie's (OG XBOX Hacker) **Precursor** (https://www.youtube.com/watch?v=w8BA6_9HCzk) Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit and **Novena** open source hardware laptop!*
 
 https://precursor.dev/ (in stock)
 
 https://www.crowdsupply.com/sutajio-kosagi/novena (no longer available)
 
 **A Corebooted computer** (from easiest to hardest)
-   
+
+## Why?
+
+Coreboot, formerly known as LinuxBIOS, is a software project aimed at replacing closed source proprietary firmware (BIOS or UEFI) found in most computers with a lightweight firmware designed to perform only the minimum number of tasks necessary to load and run a modern 32-bit or 64-bit operating system.
+
+Since Coreboot initializes the bare hardware, it must be ported to every chipset and motherboard that it supports. As a result, coreboot is available only for a limited number of hardware platforms and motherboard models. (mostly Lenovo Thinkpads & Chromebooks)
+
+## How?
+
+
+
    *You can also find corebooted devices on Ebay or Google for sale, System76, Purism, Nitro and FSF have some.*
 
 Skulls pre-built coreboot image for Lenovo Thinkpad (t430, t440p, t530, w530, x230, x230t)
@@ -59,11 +71,11 @@ MrChromebox
 ## 2. The OS
    Of course Winblows (spyware) is not a secure and anonymous OS.
    
-4. The second step is your OS.
+## 3. Software
 
+## 4. Router
 
-
-5. Content
+## 5. Extras
 
 Inside your OS, you cannot do everything and open a browser and open all that javascript crap. 
 Invidious
