@@ -24,8 +24,9 @@
 5. DNS, ufw, Tor SOCKS5
 
 1. **Device**
+   
 Hardware from most secure to reasonably secure (of course it depends on TOCTOU and all the rest etc.)
-(Shoutout to Bunnies (OG XBOX Hacker) **Precursor**, the most secure communication device that is still only a Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit
+(Shoutout to Bunnies (OG XBOX Hacker) **Precursor**, the most secure communication device that is still only a Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit)
 
 https://precursor.dev/
 
