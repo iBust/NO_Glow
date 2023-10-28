@@ -2,9 +2,11 @@
 
 ## How to be the most safe, secure and anonymous online.
 
-Important link
+### Reading
 
-A real in depth tutorial with many options
+**Important link**
+
+If you have the time, a huge in depth tutorial that can take you few weeks to go throught & setup. The reading is recommanded but can be technical.
 
 https://anonymousplanet.org/
 
