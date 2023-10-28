@@ -1,4 +1,4 @@
-# No_Glow simple setup from fingertips to ISP
+# No_Glow from device to router
 
 ## 4-step tutorial
 
