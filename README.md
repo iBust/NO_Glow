@@ -138,16 +138,31 @@ Coreboot
      
      https://github.com/coreboot/coreboot
 
-**ME_CLEANER**
+## **ME_CLEANER**
 
-Intel
+### Why ?
 
-     Most of the tools like Coreboot, Libreboot, Skulls & Heads will clean the IME, read the instruction when installing these (and some will also extract/leave the needed closed source blobs that are required for the computer initialisation)
+The Intel Management Engine (ME), also known as the Intel Manageability Engine,[1][2] is an autonomous subsystem that has been incorporated in virtually all of Intel's processor chipsets since 2008.[1][3][4] It is located in the Platform Controller Hub of modern Intel motherboards.
 
-AMD
+The Intel Management Engine always runs as long as the motherboard is receiving power, even when the computer is turned off. This issue can be mitigated with deployment of a hardware device, which is able to disconnect mains power.
 
-     Phenom II are the strongest CPU before 2013 when AMDPSP came into existance. You can desactivate AMDPSP
+**Google**
 
+As of 2017, Google was attempting to eliminate proprietary firmware from its servers and found that the ME was a hurdle to that.
+
+**Dell**
+
+In December, Dell began showing certain laptops on its website that offered the "Systems Management" option "Intel vPro - ME Inoperable, Custom Order" for an additional fee. Dell has not announced or publicly explained the methods used. In response to press requests, Dell stated that those systems had been offered for quite a while, but not for the general public, and had found their way to the website only inadvertently.[96] The laptops are available only by custom order and only to military, government and intelligence agencies.
+
+### How ?
+
+       Most of the tools like Coreboot, Libreboot, Skulls & Heads will clean the IME, read the instruction when installing these (and some will also extract/leave the needed closed source blobs that are required for the computer initialisation)
+
+AMD PSP
+
+Intel's main competitor AMD has incorporated the equivalent AMD Secure Technology (formally called Platform Security Processor) in virtually all of its post-2013 CPUs.
+
+     Phenom II are the strongest CPU before 2013 when AMDPSP came into existance. You can ''desactivate'' AMD PSP in the BIOS, but source code is closed. It could have even worst than a full network stack accesss (like uncontrolled memory access)
 ## 2. The OS
 
 - Qubes-Whonix
